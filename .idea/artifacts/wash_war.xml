@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="wash:war">
+    <output-path>$PROJECT_DIR$/wash/target</output-path>
+    <root id="archive" name="wash.war">
+      <element id="artifact" artifact-name="wash:war exploded" />
+    </root>
+  </artifact>
+</component>
